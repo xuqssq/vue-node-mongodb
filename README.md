@@ -1,4 +1,8 @@
 # shop
+一个简单的商城项目，前后台功能都基本实现
+前端：html、css、js、vue
+后端：nodeJs、express
+数据库：mongodb
 
 > A Vue.js project
 
@@ -11,11 +15,5 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 数据库文件没有打包出来，需要的可以联系我~
+  QQ：2035805156
